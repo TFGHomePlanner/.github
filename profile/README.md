@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, somos Johnny y Marta</h1>
+<h1 align="center">Hola 👋, somos Juan y Marta</h1>
 <h4>Los desarrolladores de la aplicación HomePlanner, ideal para organizar tu hogar: crea tareas y listas compartidas, gestiona los pagos de tu piso compartido, añade recordatorios y eventos... ¡y mucho más!</h4>
 
 - :bulb:  Esta idea surgió como propuesta para el Trabajo de Fin de Grado en la ETSINF. <br>
